@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayaprakash2002
-- 👀 I’m interested in data science with pyhton and full stack development with python 
-- 🌱 I’m currently learning linux,python
+- 👀 I’m interested in full stack development using Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail- bommiprakash2000@gmail.com
 
