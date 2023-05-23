@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jayaprakash2002
-- 👀 I’m interested in full stack development using Java
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail- bommiprakash2000@gmail.com
 
